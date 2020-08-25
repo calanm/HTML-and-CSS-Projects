@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+    border: 1px solid silver;
+}
+td:hover {
+    background-color: yellow;
+    color: black;
+}
+tr, th {
+    background-color: darkblue;
+    color: snow;
+}
+tr, td {
+    background-color: darkgreen;
+    color: snow;
+}
+
