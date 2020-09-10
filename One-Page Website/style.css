@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(235, 227, 255);
+    margin: 0;
+}
+.surge_logo {
+    max-width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 10px 0px 10px;
+}
+
+.nav_list ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.nav_list li {
+    display: inline-block;
+    padding: 20px;
+}
+.nav_list a {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(100, 75, 241);
+    color: white;
+    width: 100px;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.nav_list a:hover {
+    color: rgb(100, 75, 241);
+    background: white;
+    
+}
+.first_slogan{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 0px 0px 10px black;
+    
+}
+.background_design{
+background-color: rgb(100, 75, 241);
+padding: 5px 0px 20px 0px;
+}
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(100, 75, 241);
+    padding: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+.video_title {
+    text-align: center;
+    font-family: monospace;
+    color: black;
+  
+}
+.gallery_title {
+    text-align: center;
+    font-family: monospace;
+    color: black;
+  
+}
+.photo_gallery img {
+    float: left;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px;
+    text-align: center;
+}
+.gallery_background {
+    padding: 20px;
+    margin: 20px;
+}
+.video_background {
+   
+}
